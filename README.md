@@ -1,5 +1,4 @@
-# my-sublime-settings
-List of my settings for Sublime Text 3
+### List of my settings for Sublime Text 3
 
 ```python
 {
