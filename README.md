@@ -33,6 +33,7 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"ui_separator": true,
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"material_theme_contrast_mode": true,
 }
 ```
