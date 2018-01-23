@@ -21,7 +21,6 @@
 	"material_theme_tabs_separator": true,
 	"move_to_limit_on_up_down": true,
 	"open_files_in_new_window": false,
-	"overlay_scroll_bars": "enabled",
 	"remember_open_files": true,
 	"show_encoding": true,
 	"show_full_path": true,
