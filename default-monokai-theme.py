@@ -25,5 +25,6 @@
 	"show_line_endings": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"scroll_past_end": true
 }
